@@ -1,4 +1,4 @@
-# 🌴 Hawaii Climate Analysis & API
+# Hawaii Climate Analysis & API
 
 ## Overview
 
@@ -11,7 +11,7 @@ The analysis is based on a SQLite database containing weather station and measur
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
     ```bash
