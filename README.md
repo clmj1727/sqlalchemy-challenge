@@ -42,6 +42,9 @@ The analysis is based on a SQLite database containing weather station and measur
 
 ---
 
-## 🔗 License
+# Acknowledgements:
 
-This project is for educational use only. No commercial use is allowed.
+Special thanks to Dr. Carl Arrington for guidance during the Advanced SQL Module. Some snippets and logic were developed following in-class tutorial support and discussions for the following lessons:
+- Introduction to SQLAlchemy
+- Advanced Usage of the SQLAlchemy ORM
+- Introduction to Flask and Serving Data with APIs
